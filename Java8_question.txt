@@ -1,0 +1,24 @@
+
+
+Task 1
+1-Create Interface with static , default 
+and Abstract method using Funtion interface
+a> Invoke the method with LE
+b> Invoke the method with method referce
+c> apply three method referce(static,instance, Constructor)
+
+2> Create a Class define 2 interger value
+one is null and 2 is 10;
+> create sum method with 2 parameter and 
+b> invoke the method and its varriable values
+
+Task 2
+
+1-Create Class with LocalDate, Time, Period, Duration
+a>Find out the current date is leap year or not
+b>Find out the DOB from current date
+c> find out the hours and mins between two time.
+
+
+
+
